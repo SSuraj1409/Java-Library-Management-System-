@@ -46,18 +46,44 @@ This project incorporates several important Java and JavaFX concepts to ensure m
 ---
 ## 📊 Flowchart
 
+<div align="center">
+<img src="https://i.imgur.com/30ohO5y.png" width="80%" alt="flow chart"/>
+</div>
 
 ---
 
 ## 📸 GUI Preview
+<h3>Library menu GUI:</h3>
+<div align="center">
+<img src="https://i.imgur.com/u7yVrJj.png" width="80%" alt="img"/>
+</div>
+<br/>
 
-<p align="center">
-  <img src="images/library_gui.png" alt="Library Management GUI" width="500"/>
-</p>
+<h3>Books option:</h3>
+<div align="center">
+<img src="https://i.imgur.com/lENG1nZ.png" width="80%" alt="img"/>
+</div>
+<br/>
 
-> ⚠️ Make sure to upload your `library_gui.png` screenshot into an `images` folder in your repo.
+<h3>Members option:</h3>
+<div align="center">
+<img src="https://i.imgur.com/FAyNl79.png" width="80%" alt="img"/>
+</div>
+<br/>
+
+<h3>Issue book option:</h3>
+<div align="center">
+<img src="https://i.imgur.com/0nmpHIH.png" width="80%" alt="img"/>
+</div>
+<br/>
+
+<h3>Return book option:</h3>
+<div align="center">
+<img src="https://i.imgur.com/be2IQnO.png" width="80%" alt="img"/>
+</div>
+<br/>
 
 ---
 
-## 📂 Project Structure
+## **🔒 Full source code available in a private repository. Please contact me for access.**
 
